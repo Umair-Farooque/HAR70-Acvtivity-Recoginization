@@ -1,5 +1,7 @@
 # HAR70 Acvtivity Recoginization
-
+## Dataset
+** You can download the dataset from this website.**
+(https://archive.ics.uci.edu/dataset/780/har70)
 ---
 
 ## Features
